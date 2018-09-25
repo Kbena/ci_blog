@@ -1,0 +1,17 @@
+.post-date{
+    background: #f4f4f4;
+    padding: 4px;
+    margin: 3px 0;
+    display: block;
+}
+
+.post-thumb{
+    width: 100%;
+}
+
+.comby{
+    background: lightgray;
+    padding: 5px;
+    margin: 5px;
+}
+
